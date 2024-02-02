@@ -1,8 +1,16 @@
-<h1 align="center">Hey there, Name is Kundwa Bruno Materne</h1>
-<h3 align="center">A passionate software engineer from Rwanda</h3>
-<p align="center"><a href="https://www.itskbm.com/" target="_blank" align="center">Visit my space</h3></p>
+# Hi there 👋, I'm Kundwa Bruno!
 
+## About Me
+Welcome! I'm a web development enthusiast who started my journey in 2018. My passion for web technologies was sparked during an Engineering apprenticeship at Andela Rwanda. With over three years in the field, I've continuously expanded my expertise through various online platforms, shaping me into a dedicated and skilled web professional.
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{KundwaBruno}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-<br/>
+## My GitHub Stats
+
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kundwabruno&show_icons=true&theme=radical)
+
+<!-- You can add your own widgets from https://github.com/anuraghazra/github-readme-stats or other sources as you like. -->
+
+## Connect with Me
+- LinkedIn: [Visit](https://www.linkedin.com/in/kundwabruno/)
+- Personal Website: [KBM](http://YourWebsite.com](https://www.itskbm.com/))
+
+<!-- Feel free to add or remove any sections above to fit your profile. -->
